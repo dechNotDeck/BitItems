@@ -1,0 +1,6 @@
+name: BitAuth
+version: 1.0.5
+description: Custom items for use with Spout
+author: dechiridas
+website: http://www.dechiridas.com/
+main: bitlegend.bititems.BitItems
